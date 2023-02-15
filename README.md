@@ -12,9 +12,11 @@
 
  ## About me: my name is Fernando Borquez, i live in Bella vista, Buenos Aires. <br>
 - 🔭 I’m currently working on Trenes Argentinos. <br>
+- 🎓 I am currently studying "Licenciatura en administracion" at the "Universidad Nacional de Jose C. Paz".<br>
 - 📫 How to reach me: **borquezf89@gmail.com**,linkedin. <br>
 - ⚡ Fun fact: i like play football and videogames. <br>
-- ⚡ Curious fact: I never stop training in what I like.💻
+- ⚡ Curious fact: I never stop training in what I like.
+- 💻 I like to watch programming videos, study and inform myself and learn more every day.
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
